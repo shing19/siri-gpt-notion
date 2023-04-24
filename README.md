@@ -1,6 +1,9 @@
 # Siri-GPT-Notion Shortcut
 
-This is a shortcut for Siri that allows you to generate text using GPT-3.5 language model from OpenAI and automatically save the generated text to a specified Notion database. 
+This is a shortcut for Siri that uses the GPT-3.5 language model to automatically save formatted text generated from what you say to Siri into a designated Notion database.
+
+Start directly:
+https://www.icloud.com/shortcuts/4649e96237f94c3cbc761b2568da32e5
 
 ## Requirements
 
@@ -33,7 +36,10 @@ Twitter @shing19_eth
 
 # Siri-GPT-Notion 快捷指令
 
-这是一个用于 Siri 的快捷指令，它可以使用 GPT-3.5 语言模型自动生成文本，并将生成的文本自动保存到指定的 Notion 数据库中。
+这是一个用于 Siri 的快捷指令，它可以使用 GPT-3.5 语言模型将你的对 Siri 说的话自动生成的格式化文本自动保存到指定的 Notion 数据库中。
+
+直接使用：
+https://www.icloud.com/shortcuts/c6199280e695498796ce12615713cd30
 
 ## 前提条件
 
