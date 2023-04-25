@@ -3,7 +3,7 @@
 This is a shortcut for Siri that uses the GPT-3.5 language model to automatically save formatted text generated from what you say to Siri into a designated Notion database.
 
 Start directly:
-https://www.icloud.com/shortcuts/4649e96237f94c3cbc761b2568da32e5
+https://www.icloud.com/shortcuts/8b5bf37d56a1419c95fe1a0e15d91550
 
 ## Requirements
 
