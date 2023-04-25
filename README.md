@@ -21,7 +21,6 @@ Before using this shortcut, you will need to obtain the following information:
 
 ## Tips
 
-- It is recommended to use a VPN when running the shortcut, and avoid using Hong Kong nodes to reduce the risk of being banned by OpenAI.
 - You can adjust the generated results by adding notes to the Dictionary. If there is no problem with filling in the information on Notion, you do not need to fill in the notes section.
 
 ## Author
