@@ -44,7 +44,7 @@ https://www.icloud.com/shortcuts/c6199280e695498796ce12615713cd30
 
 在使用这个快捷指令之前，您需要获取以下信息：
 
-1. Notion API 和数据库 ID。您可以按照 [这里](https://juejin.cn/post/7067108031678545927) 的说明来获取。
+1. Notion API 和数据库 ID。您可以按照 [这里](https://developers.notion.com/docs/create-a-notion-integration#step-2-share-a-database-with-your-integration) 的说明来获取。
 2. OPENAI_API 密钥。您可以按照 [这里](https://platform.openai.com/account/api-keys) 的说明来获取。
 
 ## 如何使用
